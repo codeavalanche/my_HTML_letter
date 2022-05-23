@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+}
+.container {
+    background-color: blanchedalmond;
+    padding: 2px;
+    margin: 100px;
+}
+.first {
+    max-width: 20%;
+    margin-left: auto;
+    margin-top: 2rem;
+    line-height: 20px;
+}
+.second {
+    margin-left: 10px;
+}
+.salute {
+    margin-left: 10px;
+}
+.third {
+    text-align: center;
+    font-size: larger;
+}
+.fourth {
+    font-weight: 200;
+    font-size: larger;
+    line-height: 30px;
+    margin-left: 10px;
+    text-align: justify;
+    margin-right: 10px;
+}
+.fifth {
+    text-align: right;
+    margin-right: 150px;
+}
+hr {
+    width: 20%;
+    height: 50%;
+    border: 1px solid black;
+    margin-right: 100px;
+}
